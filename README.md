@@ -2,13 +2,15 @@
 
 Hello Microverse!!
 
-My first Project
+My first Microverse project, Hello Microverse.
 
 ## Built With
 
 HTML & CSS
 
 To get a local copy up and running follow these simple example steps.
+
+- copy link to repo and paste in local machine
 
 Basic Knowledge in HTML and CSS
 
@@ -24,9 +26,9 @@ Basic Knowledge in HTML and CSS
 
 👤 Tochukwu Orizu
 
-- GitHub: [@Busido-brown](https://github.com/githubhandle)
-- Twitter: [@tuzyorizu](https://twitter.com/twitterhandle)
-- LinkedIn: [Tochukwu Orizu](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Busido-brown](https://github.com/Busido-brown)
+- Twitter: [@tuzyorizu](https://twitter.com/tuzyorizu)
+- LinkedIn: [Tochukwu Orizu](https://linkedin.com/in/Tochukwu Orizu)
 
 ## 🤝 Contributing
 
